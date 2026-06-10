@@ -1,7 +1,7 @@
 # Compact Sensorless BLDC Motor Characterization PCB
 
 <p align="center">
-  <img src="Docs/Hardware Setup.png" alt="Hardware Setup" height="300"/> &nbsp;&nbsp;&nbsp;
+  <img src="Docs/Hardware Setup.jpeg" alt="Hardware Setup" height="300"/> &nbsp;&nbsp;&nbsp;
   <img src="Docs/Patent Status.png" alt="Patent Status" height="300"/>
 </p>
 
